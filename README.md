@@ -5,6 +5,7 @@ Surf N' Shake shop will sell ice cream and surfboards to locals and tourists. In
 - Max temperatures are between 83° F and 85° F.
 - Min temperature for December is 56° F and 64° F for June.
 - Average Temperature for December is 71° F while for  June is around 75° F.
+- Minimum and Maximum temperatures for both months seem to be outliers.
  
 
 ## **Summary**
@@ -20,8 +21,9 @@ Surf N' Shake shop will sell ice cream and surfboards to locals and tourists. In
 
 
 - Temperatures are slightly colder in December as you would expect for Winter but the temperature differential between December and June for the average temperature  is only around 4° F.
-- Precipitation for both months is low with an average of .013 inches of rain for June and .21 inches for December.
-- Minimum and Maximum temperatures for both months seem to be outliers.
+- Precipitation for both months is low with an average of .13 inches of rain for June and .21 inches for December.
+- Precipitation average seems to be affected by the maximum precipitaion which skews the average. 
+- Precipitation for the 75 percentile is lower than the average. Both these months have low precipitation. 
 - Temperatures in the 50 Percentile are inline with the average with standard deviations of around 3.5° F which is small.
-- Overall the ranges in temperature and precicipation seem to be close together which would mean there aren't big changes year round which would make the location suitable for the shop.
+- Overall the ranges in temperature and precipipation seem to be close together which would mean there aren't big changes year round and  low precipitation makes the location suitable for the shop.
 
