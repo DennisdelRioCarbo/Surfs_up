@@ -1,20 +1,20 @@
-#Overview
+# **Overview**
 Surf N' Shake shop will sell ice cream and surfboards to locals and tourists. Investor W. Avy  wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-##Results: 
+## **Results** 
 - Max temperatures are between 83° F and 85° F.
 - Min temperature for December is 56° F and 64° F for June.
 - Average Temperature for December is 71° F while for  June is around 75° F.
  
 
-##Summary:
+## **Summary**
 
-###**June** 
+### **June** 
 
 ![june_data_df](https://user-images.githubusercontent.com/104289098/177007488-ce4ea0b6-a1fe-4073-9857-f382833a88bc.png)
 
 
-###**December**
+### **December**
 
 ![december_data_df](https://user-images.githubusercontent.com/104289098/177007533-03b0808a-f48e-4be7-b034-301807c6b51b.png)
 
